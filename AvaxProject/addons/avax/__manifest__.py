@@ -3,7 +3,7 @@
 {
     "name": "Avax Blockchain Connector",
     "summary": "Avalanche Smart Contract",
-    "version": "14.0.1.0.0",
+    "version": "18.0.1.0.0",
     "category": "Localization",
     'author': "Agustin Wisky",
     'website': "https://github.com/awisky",
